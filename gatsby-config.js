@@ -7,10 +7,10 @@ module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Blog by John Doe',
+    title: 'Blog by Paulina Grunwald',
     subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-    copyright: '© All rights reserved.',
+      'Software engineer focused on Full-Stack Cloud Development in AWS with special interest in serverless.',
+    copyright: '© paulinagrunwald • 2020 • Build with Gatsby',
     disqusShortname: '',
     menu: [
       {
@@ -27,13 +27,11 @@ module.exports = {
       },
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vk: '#',
+      name: 'Paulina Grunwald',
+      email: 'paulina.grunwald@gmail.com',
+      twitter: '@p_grunwald',
+      github: 'paulina-grunwald',
+      linkedin: 'paulinagrunwald',
     },
   },
   plugins: [

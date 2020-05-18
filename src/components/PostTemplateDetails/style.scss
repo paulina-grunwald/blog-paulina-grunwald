@@ -127,6 +127,8 @@
         }
         &__body {
             & .gatsby-highlight {
+
+                text-align: justify;
                 margin-left: auto;
                 margin-right: auto;
             }
@@ -146,6 +148,8 @@
             @include margin-bottom(1.5);
         }
         &__body {
+
+            text-align: justify;
             font-size: $typographic-base-font-size * 1.125;
             @include line-height(1.125);
             @include margin-bottom(1.125);
